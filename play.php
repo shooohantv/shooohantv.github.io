@@ -7,9 +7,9 @@
           type: "hls",
          
           hlshtml: true,
-                playbackRateControls: [0.75, 1, 1.25, 1.5], title: 'SHOHAN TV', width: "100%", height: "100%", aspectratio: '16:9',repeat: 'true', autostart: true, primary: 'html5', setFullscreen: true, controls: true, showCode: true, responsive: true,
+                playbackRateControls: [0.75, 1, 1.25, 1.5], title: 'Watching Live DurbinLIVE', width: "100%", height: "100%", aspectratio: '16:9',repeat: 'true', autostart: true, primary: 'html5', setFullscreen: true, controls: true, showCode: true, responsive: true,
 
-          abouttext: "SHOHANTV", aboutlink: "", logo:
+          abouttext: "DURBINLIVE", aboutlink: "", logo:
 
           {
 
@@ -27,4 +27,4 @@
         
     
 
-</body></html> 
+</body></html>
